@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StackOverFlowUser</string>
+    <string name="ok">OK</string>
+    <string name="reputation_">Reputation: %s</string>
+    <string name="last_access_date_">Last Access Date: %s</string>
+    <string name="location_">Location: %s</string>
+    <string name="type_">Type: %s</string>
+    <string name="change_">Change: %s</string>
+    <string name="createAt_">Create At: %s</string>
+    <string name="posID_">Post ID: %s</string>
+</resources>
